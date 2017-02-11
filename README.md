@@ -1,4 +1,7 @@
 *SharedWork
 *
 
-В этом файле содержится крайне полезная информация.
+Some useful features are described here.
+
+*Extra features*
+Here is some code regarding extra features.
